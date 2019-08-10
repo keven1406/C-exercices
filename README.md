@@ -1,2 +1,2 @@
-# C++-exercices
+# C++ exercices
 Estudos de C++
